@@ -1,0 +1,9 @@
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\bin\Debug\caculator_hw.exe.config
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\bin\Debug\caculator_hw.exe
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\bin\Debug\caculator_hw.pdb
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.csprojResolveAssemblyReference.cache
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.Form1.resources
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.Properties.Resources.resources
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.csproj.GenerateResource.Cache
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.exe
+C:\Users\tony7\Desktop\multi_media\caculator_hw\caculator_hw\obj\Debug\caculator_hw.pdb
